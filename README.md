@@ -1,7 +1,7 @@
 #### Ola Pessoas, Eu sou Gilson 
 
 ## I'm Father and Developer!
-- 🔭 Ferramente de trabalho <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />!
+- 🔭 Ferramente de trabalhos!
 - 🌱 Eu gosto muito de estudar, só que não 🤣
 - 👯 Metologia Agil adoro
 - 🥅 Quero muito trabalha em projetos Ope Source
@@ -31,7 +31,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gilsonvalvess&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gilsonvalvess&show_icons=true&hide_border=true" /> -->
 
 [twitter]: https://twitter.com/gilsonvalves
 [linkedin]: https://linkedin.com/in/gilsonvalves
