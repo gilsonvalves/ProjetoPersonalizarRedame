@@ -4,7 +4,7 @@
 - 🔭 Ferramente de trabalhos!
 - 🌱 Eu gosto muito de estudar, só que não 🤣
 - 👯 Metologia Agil adoro
-- 🥅 Quero muito trabalha em projetos Ope Source
+- 🥅 Quero muito trabalha em projetos Open Source
 - ⚡ Video Game isso é vida.............
 
 ### Olha onde pode me encontrar:
